@@ -7,7 +7,7 @@ Bayesian Optimization, also known as Bayesian reasoning, can greatly reduce the 
 ## Hyperparameter fora deep nural network trained from End-to-End
 - This method uses CNN-LSTM-CTC networks.
 - The metrics is validation loss.
--To select the best hyperparameters, train the model, and then test its performace; please run the below codes in your terminal
+- To select the best hyperparameters, train the model, and then test its performace; please run the below codes in your terminal
 
 ### To run the code with Terminal use the following info:
 ```
