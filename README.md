@@ -4,11 +4,12 @@ Hyperparameter tuning can be a time-consuming task, particularly when using trad
 
 Bayesian Optimization, also known as Bayesian reasoning, can greatly reduce the time and effort required for hyperparameter tuning while also improving the generalization performance on the test set. This method takes into account the information from previously evaluated hyperparameter combinations when deciding on the next set to evaluate, making the search process more efficient and effective.
 
-## Hyperparameter fora deep nural network trained from End-to-End
+## Hyperparameter for Deep Neural networks trained from End-to-End
+```
 - This method uses CNN-LSTM-CTC networks.
 - The metrics is validation loss.
 - To select the best hyperparameters, train the model, and then test its performace; please run the below codes in your terminal
-
+```
 ### To run the code with Terminal use the following info:
 ```
 # Load and Pre-process data
