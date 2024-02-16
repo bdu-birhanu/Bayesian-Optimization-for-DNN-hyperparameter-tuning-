@@ -26,6 +26,6 @@ python3 test_model_BBO.py
 ```
 ## Some issues to know
 1. The test environment is
-    - Python 3.8+
+    - Python 3.8
     - Keras 2.2.4
-    - tensorflow 2+
+    - tensorflow 2
